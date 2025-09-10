@@ -29,8 +29,8 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nodonut6311E&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodonut6311&theme=radical" alt="streak" />
 </p>
 
 ---
@@ -38,16 +38,16 @@
 <!-- Top Languages -->
 ### 🔝 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodonut6311&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
 
 <!-- Projects -->
 ### 🚀 Featured Projects
-- 📌 [**Project 1**](https://github.com/YOUR_GITHUB_USERNAME/project1) — Short description.
-- 📌 [**Project 2**](https://github.com/YOUR_GITHUB_USERNAME/project2) — Short description.
-- 📌 [**Project 3**](https://github.com/YOUR_GITHUB_USERNAME/project3) — Short description.
+- 📌 [**Project 1**](https://github.com/nodonut6311/project1) — Short description.
+- 📌 [**Project 2**](https://github.com/nodonut6311/project2) — Short description.
+- 📌 [**Project 3**](https://github.com/nodonut6311/project3) — Short description.
 
 ---
 
@@ -61,4 +61,4 @@
 
 ---
 
-⭐️ From [Your Name](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Rohan](https://github.com/nodonut6311)
