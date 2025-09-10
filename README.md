@@ -27,12 +27,12 @@
   <br>
   <!-- Visualization -->
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?&style=flat&logo=plotly&logoColor=white" width="110"/>
-  <img src="https://img.shields.io/badge/Seaborn-008080.svg?&style=flat&logoColor=white" width="110"/>
+  <img src="https://img.shields.io/badge/Seaborn-008080.svg?&style=flat&logoColor=white" width="90"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?&style=flat&logo=Power-BI&logoColor=black" width="90"/>
   <br>
   <!-- Geospatial -->
-  <img src="https://img.shields.io/badge/GeoPandas-ffca28.svg?&style=flat&logo=python&logoColor=black" width="100"/>
-  <img src="https://img.shields.io/badge/Rasterio-3776AB.svg?&style=flat&logo=python&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/GeoPandas-ffca28.svg?&style=flat&logo=python&logoColor=black" width="110"/>
+  <img src="https://img.shields.io/badge/Rasterio-3776AB.svg?&style=flat&logo=python&logoColor=white" width="110"/>
   <br>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=github,vscode" width="100"/>
