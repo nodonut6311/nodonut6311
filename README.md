@@ -1,53 +1,54 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">🚀 Passionate Developer | 🌍 Open-Source Enthusiast | 💡 Lifelong Learner</h3>
+<h3 align="center">🌍 Exploring Data, Maps & Machine Learning | 📊 Beginner in Research & Applied Analytics</h3>
 
 ---
 
 <!-- About Me -->
 ### 🙋‍♂️ About Me
-- 🔭 I’m currently working on **Awesome Project**
-- 🌱 I’m learning **Next.js, DevOps, and AI tools**
-- 💬 Ask me about **JavaScript, React, and Backend Development**
-- ⚡ Fun fact: *I debug at 2am with coffee ☕*
+- 🔭 Currently writing a **research paper in geospatial analysis**, where I use **remote sensing data** to study patterns related to moisture.  
+- 📈 Learning and experimenting with **time-series forecasting models** (like ARIMA) and their applications in real-world data.  
+- 🧑‍💻 Comfortable working across the **data journey**: from sourcing and cleaning → analysis → creating dashboards.  
+- ☁️ Mostly using **Python and Google Colab** for data workflows.  
+- 💡 Curious about **machine learning, applied math, and environmental data**.  
+- ⚡ Fun fact: *I see messy datasets as puzzles waiting to be solved.*  
 
 ---
 
 <!-- Skills -->
-### 🛠️ Tech Stack
+### 🛠️ Tools & Technologies I Use
 <p align="left">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go" /><br>
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,spring" /><br>
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=python,r" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat&logo=Google-Colab&logoColor=white"/>
+  <br>
+  <!-- ML / Stats -->
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?&style=flat&logo=NumPy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=Pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white"/>
+  <br>
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?&style=flat&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-008080.svg?&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?&style=flat&logo=Power-BI&logoColor=black"/>
+  <br>
+  <!-- Geospatial -->
+  <img src="https://img.shields.io/badge/GeoPandas-ffca28.svg?&style=flat&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Rasterio-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
+  <br>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,vscode,linux" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nodonut6311E&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodonut6311&theme=radical" alt="streak" />
-</p>
-
----
-
-<!-- Top Languages -->
-### 🔝 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodonut6311&layout=compact&theme=radical" alt="langs" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
 <!-- Projects -->
 ### 🚀 Featured Projects
-- 📌 [**Project 1**](https://github.com/nodonut6311/project1) — Short description.
-- 📌 [**Project 2**](https://github.com/nodonut6311/project2) — Short description.
-- 📌 [**Project 3**](https://github.com/nodonut6311/project3) — Short description.
+- 🌍 [**Remote Sensing & Moisture Study**](https://github.com/nodonut6311/project1) — Research project exploring geospatial datasets.  
+- 📈 [**ARIMA Forecasting Models**](https://github.com/nodonut6311/project2) — Time-series prediction & applied math research.  
+- 📊 [**Data Dashboarding Toolkit**](https://github.com/nodonut6311/project3) — From sourcing to visualization with Python + PowerBI.  
 
 ---
 
