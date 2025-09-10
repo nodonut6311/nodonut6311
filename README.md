@@ -53,7 +53,9 @@
 <!-- Connect -->
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="www.linkedin.com/in/rohan-amudhala-b70000325" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/rohan-amudhala-b70000325" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:rohan2410188@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
