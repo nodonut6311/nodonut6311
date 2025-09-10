@@ -17,22 +17,22 @@
 <p align="left">
   <!-- Core -->
   <img src="https://skillicons.dev/icons?i=python,r" width="50"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat&logo=Google-Colab&logoColor=white" width="140"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat&logo=Google-Colab&logoColor=white" width="100"/>
   <br>
   <!-- ML / Stats -->
   <img src="https://img.shields.io/badge/NumPy-013243.svg?&style=flat&logo=NumPy&logoColor=white" width="100"/>
   <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=Pandas&logoColor=white" width="100"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white" width="140"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white" width="120"/>
   <br>
   <!-- Visualization -->
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?&style=flat&logo=plotly&logoColor=white" width="140"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?&style=flat&logo=plotly&logoColor=white" width="110"/>
   <img src="https://img.shields.io/badge/Seaborn-008080.svg?&style=flat&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?&style=flat&logo=Power-BI&logoColor=black" width="120"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?&style=flat&logo=Power-BI&logoColor=black" width="90"/>
   <br>
   <!-- Geospatial -->
-  <img src="https://img.shields.io/badge/GeoPandas-ffca28.svg?&style=flat&logo=python&logoColor=black" width="130"/>
-  <img src="https://img.shields.io/badge/Rasterio-3776AB.svg?&style=flat&logo=python&logoColor=white" width="130"/>
+  <img src="https://img.shields.io/badge/GeoPandas-ffca28.svg?&style=flat&logo=python&logoColor=black" width="100"/>
+  <img src="https://img.shields.io/badge/Rasterio-3776AB.svg?&style=flat&logo=python&logoColor=white" width="100"/>
   <br>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=github,vscode" width="100"/>
