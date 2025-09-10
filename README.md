@@ -6,12 +6,11 @@
 
 <!-- About Me -->
 ### 🙋‍♂️ About Me
-- 🔭 Currently writing a **research paper in geospatial analysis**, where I use **remote sensing data** to study patterns related to moisture.  
-- 📈 Learning and experimenting with **time-series forecasting models** (like ARIMA) and their applications in real-world data.  
+- 🔭 Currently writing a **research paper in geospatial analysis**, where I use **Satellite Imagery** to study patterns related to moisture.  
+- 📈 Learning and experimenting with **time-series forecasting models** (ARIMA,ARFIMA) and their applications in real-world data.  
 - 🧑‍💻 Comfortable working across the **data journey**: from sourcing and cleaning → analysis → creating dashboards.  
 - ☁️ Mostly using **Python and Google Colab** for data workflows.  
 - 💡 Curious about **machine learning, applied math, and environmental data**.  
-- ⚡ Fun fact: *I see messy datasets as puzzles waiting to be solved.*  
 
 ---
 
@@ -27,7 +26,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243.svg?&style=flat&logo=NumPy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=Pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white"/>
   <br>
   <!-- Visualization -->
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?&style=flat&logo=plotly&logoColor=white"/>
@@ -39,7 +37,7 @@
   <img src="https://img.shields.io/badge/Rasterio-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
   <br>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
