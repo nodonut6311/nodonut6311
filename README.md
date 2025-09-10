@@ -39,12 +39,11 @@
 </p>
 
 ---
-
 <!-- Projects -->
 ### 🚀 Featured Projects
-- 🌍 [**Remote Sensing & Moisture Study**](https://github.com/nodonut6311/project1) — Research project exploring geospatial datasets.  
-- 📈 [**ARIMA Forecasting Models**](https://github.com/nodonut6311/project2) — Time-series prediction & applied math research.  
-- 📊 [**Data Dashboarding Toolkit**](https://github.com/nodonut6311/project3) — From sourcing to visualization with Python + PowerBI.  
+- 🌍 **Remote Sensing & Moisture Study** — *link coming soon* 🌱 Research project exploring geospatial datasets.  
+- 📈 **ARIMA Forecasting Models** — *link coming soon* 📊 Time-series prediction & applied math research.  
+- 📊 **Data Dashboarding Toolkit** — *link coming soon* 📊 From sourcing to visualization with Python + PowerBI.  
 
 ---
 
