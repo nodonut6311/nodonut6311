@@ -6,17 +6,17 @@
 
 <!-- About Me -->
 ### 🙋‍♂️ About Me
-- 🔭 Currently writing a **research paper in geospatial analysis**, where I use **Satellite Imagery** to study patterns related to moisture.  
+- 🔭 Currently writing a **research paper in geospatial analysis**, where I use **MODIS/061/MOD11A2 & MODIS/061/MOD13Q1 data** to study patterns related to moisture.  
 - 📈 Learning and experimenting with **time-series forecasting models** (ARIMA,ARFIMA) and their applications in real-world data.  
 - 🧑‍💻 Comfortable working across the **data journey**: from sourcing and cleaning → analysis → creating dashboards.  
-- ☁️ Mostly using **Python and Google Colab** for data workflows.  
+- ☁️ Mostly using **Google Colab and Jupyter** for data workflows.  
 - 💡 Curious about **machine learning, applied math, and environmental data**.  
 
 ---
 ### 🛠️ Tools & Technologies I Use
 <p align="left">
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=python,r" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python,r" width="70"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" width="100"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat&logo=Google-Colab&logoColor=white" width="120"/>
   <br>
