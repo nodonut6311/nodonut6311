@@ -6,7 +6,8 @@
 
 <!-- About Me -->
 ### 🙋‍♂️ About Me
-- 🔭 Currently writing a **research paper in geospatial analysis**, where I use **MODIS/061/MOD11A2 & MODIS/061/MOD13Q1 data** to study patterns related to moisture.  
+- 📊 Built a **Child Labour & Migration Analysis pipeline**, showcasing skills in **data cleaning, integration, and socio-economic analysis** on real-world survey data.  
+- 🔭 Currently writing a **research paper in geospatial analysis**, where I use **MODIS/061/MOD11A2 & MODIS/061/MOD13Q1 data** to study patterns related to soil moisture.  
 - 📈 Learning and experimenting with **time-series forecasting models** (ARIMA,ARFIMA) and their applications in real-world data.  
 - 🧑‍💻 Comfortable working across the **data journey**: from sourcing and cleaning → analysis → creating dashboards.  
 - ☁️ Mostly using **Google Colab and Jupyter** for data workflows.  
@@ -43,7 +44,7 @@
 ### 🚀 Featured Projects
 - 🌍 **Remote Sensing & Moisture Study** — *link coming soon* 🌱 Research project exploring geospatial datasets.  
 - 📈 **ARIMA Forecasting Models** — *link coming soon* 📊 Time-series prediction & applied math research.  
-- 📊 **Data Dashboarding Toolkit** — *link coming soon* 📊 From sourcing to visualization with Python + PowerBI.  
+- 📊 **Child Labour & Migration Analytics** — [GitHub Repo](https://github.com/nodonut6311/ChildLabour-Migration-Analytics) 📊 End-to-end pipeline for **data cleaning, integration, and socio-economic analysis** using Python.
 
 ---
 
