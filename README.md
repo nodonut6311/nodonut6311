@@ -5,14 +5,11 @@
 ---
 
 <!-- About Me -->
-### 🙋‍♂️ About Me
-- 📊 Built a **Child Labour & Migration Analysis pipeline**, showcasing skills in **data cleaning, integration, and socio-economic analysis** on real-world survey data.  
-- 🔭 Currently writing a **research paper in geospatial analysis**, where I use **MODIS/061/MOD11A2 & MODIS/061/MOD13Q1 data** to study patterns related to soil moisture.  
-- 📈 Learning and experimenting with **time-series forecasting models** (ARIMA,ARFIMA) and their applications in real-world data.  
-- 🧑‍💻 Comfortable working across the **data journey**: from sourcing and cleaning → analysis → creating dashboards.  
-- ☁️ Mostly using **Google Colab and Jupyter** for data workflows.  
-- 💡 Curious about **machine learning, applied math, and environmental data**.  
-
+### 🙋‍♂️ About Me  
+- 🔭 Co-authoring a **geospatial analysis paper** with the *Indian Institute of Tropical Meteorology, Pune*, using MODIS datasets to study soil moisture and vegetation dynamics.  
+- 📊 Built a **data pipeline on child labour and migration**, focusing on **data cleaning, integration, and socio-economic analysis** with real-world survey data.  
+- 📈 Co-authoring a **research paper on prediction models**, applying **time-series forecasting techniques** (ARIMA, ARFIMA) to real-world datasets.  
+- 🧑‍💻 Skilled across the **data workflow** — from sourcing and cleaning → analysis → visualization and dashboards.  
 ---
 ### 🛠️ Tools & Technologies I Use
 <p align="left">
