@@ -49,7 +49,7 @@
 ### 🚀 Featured Projects
 - 🌍 **Remote Sensing & Moisture Study** — *link coming soon* 🌱 Research project exploring geospatial datasets.  
 - 📈 **ARIMA Forecasting Models** — *link coming soon* 📊 Time-series prediction & applied math research.  
-- 📊 **Child Labour & Migration Analytics** — [GitHub Repo](https://github.com/nodonut6311/ChildLabour-Migration-Analytics) 📊 End-to-end pipeline for **data cleaning, integration, and socio-economic analysis** using Python.
+- 📊 **Child Labour & Migration Analytics** — [Repo Link](https://github.com/nodonut6311/ChildLabour-Migration-Analytics) 📊 End-to-end pipeline for **data cleaning, integration, and socio-economic analysis** using Python.
 
 ---
 
