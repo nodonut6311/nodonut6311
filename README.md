@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4.svg?style=for-the-badge&logo=googleearth&logoColor=white"/>
   <img src="https://img.shields.io/badge/GeoPandas-ffca28.svg?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Rasterio-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSGeo-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <br>
   <!-- Tools -->
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
