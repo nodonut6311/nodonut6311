@@ -54,6 +54,14 @@
 
 ---
 
+<!-- GitHub Stats -->
+###  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nodonut6311&show_icons=true&theme=tokyonight" alt="Rohan's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodonut6311&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
 <!-- Connect -->
 ### 🌐 Connect With Me
 <p align="left">
