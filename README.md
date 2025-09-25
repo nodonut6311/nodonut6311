@@ -5,7 +5,7 @@
 ---
 
 <!-- About Me -->
-### 🙋‍♂️ About Me  
+### 🙋‍♂️ About Me     
 - 🔭 Co-authoring a **geospatial analysis paper** with the *Indian Institute of Tropical Meteorology, Pune*, using MODIS datasets to study soil moisture and vegetation dynamics.  
 - 📊 Built a **data pipeline on child labour and migration**, focusing on **data cleaning, integration, and socio-economic analysis** with real-world survey data.  
 - 📈 Co-authoring a **research paper on prediction models**, applying **time-series forecasting techniques** (ARIMA, ARFIMA) to real-world datasets.  
