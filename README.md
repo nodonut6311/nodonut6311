@@ -22,7 +22,7 @@ Stars: 14
 LinkedIn: 
 ```
 <pre>
-Connect With Me!
+ping me!
 -------------------------
 <a href="https://www.linkedin.com/in/rohan-amudhala-b70000325">LinkedIn</a>
 </pre>
