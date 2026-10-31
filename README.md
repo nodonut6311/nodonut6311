@@ -1,7 +1,6 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">🌍 Exploring Data, Maps & Machine Learning | 📊 Beginner in Research & Applied Analytics</h3>
-
+```zsh
+> neofetch
+```
 ---
 
 <!-- About Me -->
