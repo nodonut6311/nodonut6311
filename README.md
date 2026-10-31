@@ -22,11 +22,9 @@ Stars: 14
 LinkedIn: 
 ```
 <pre>
-rohan-amudhala@github
+Connect With Me!
 -------------------------
-OS: macOS
-Languages: Java, Python, C, C++
-LinkedIn: <a href="https://www.linkedin.com/in/rohan-amudhala-b70000325">LinkedIn</a>
+<a href="https://www.linkedin.com/in/rohan-amudhala-b70000325">LinkedIn</a>
 </pre>
 
 
