@@ -24,9 +24,8 @@ LinkedIn:
 <pre>
 ping me!
 -------------------------
-<a href="https://www.linkedin.com/in/rohan-amudhala-b70000325">LinkedIn</a>
+<a href="https://www.linkedin.com/in/rohan-amudhala-b70000325" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </pre>
-
 
 <p align="left">
   <a href="https://skillicons.dev">
