@@ -5,7 +5,7 @@
 <img align="left" src="https://github.com/nodonut6311/nodonut6311/blob/main/this%20is%20me%20if%20u%20even%20care%20%3E_%3C.jpg?raw=true" width="320" />
 
 ```text
-anordinaryusername@github
+nodonut6311@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
@@ -19,7 +19,7 @@ Learning: Node.js, Express, PostgreSQL,
 Hobbies: Gardening, Cooking, Gaming
 Commits: 968
 Stars: 14
-Discord: RandomPotato#1377
+LinkedIn: RandomPotato#1377
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
