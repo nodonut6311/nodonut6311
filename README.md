@@ -2,18 +2,24 @@
 > nodonut6311
 ```
 <img align="left" src="https://raw.githubusercontent.com/nodonut6311/nodonut6311/main/this%20is%20me%20if%20u%20even%20care%20%3E_%3C.jpg" alt="this is me" width="320" />
-```
+
+
 nodonut6311@github
 -------------------------
-```
-<!-- About Me -->
-### 🙋‍♂️ About Me     
-- 🔭 Co-authoring a **geospatial analysis paper** with the *Indian Institute of Tropical Meteorology, Pune*, using MODIS datasets to study soil moisture and vegetation dynamics.  
-- 📊 Built a **data pipeline on child labour and migration**, focusing on **data cleaning, integration, and socio-economic analysis** with real-world survey data.  
-- 📈 Co-authoring a **research paper on prediction models**, applying **time-series forecasting techniques** (ARIMA, ARFIMA) to real-world datasets.  
-- 🧑‍💻 Skilled across the **data workflow** — from sourcing and cleaning → analysis → visualization and dashboards.
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: Artesia, CA
+Frameworks: React
+Languages: JavaScript, TypeScript,
+           HTML, CSS
+Learning: Node.js, Express, PostgreSQL,
+          Three.js, CPP
+Hobbies: Gardening, Cooking, Gaming
+Commits: 968
+Stars: 14
+Discord: RandomPotato#1377
 
----
 
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,java,c,js,mysql,mongodb,spring,vscode,r,github,html" /> </a> </p>
 
