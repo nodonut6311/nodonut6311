@@ -2,7 +2,7 @@
 > nodonut6311
 ```
 <img align="left" src="https://raw.githubusercontent.com/nodonut6311/nodonut6311/main/this%20is%20me%20if%20u%20even%20care%20%3E_%3C.jpg" alt="this is me" width="320" />
-```csharp
+```
 nodonut6311@github
 -------------------------
 ```
@@ -17,48 +17,6 @@ nodonut6311@github
 
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,java,c,js,mysql,mongodb,spring,vscode,r,github,html" /> </a> </p>
 
-### 🛠️ Tools & Technologies I Use
-<p align="left">
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-  <br>
-  <!-- NoteBooks -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <br>
-  <!-- ML / Stats -->
-  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <br>
-  <!-- Visualization -->
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-008080.svg?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OSGeo-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <br>
-  <!-- Geospatial -->
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4.svg?style=for-the-badge&logo=googleearth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GeoPandas-ffca28.svg?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Rasterio-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <br>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-<!-- Projects -->
-### 🚀 Featured Projects
-- 🌍 **Remote Sensing & Moisture Study** — [Repo Link](https://github.com/nodonut6311/RSMM-Remote-Soil-Moisture-Monitoring) 🌱 Research project exploring geospatial datasets.  
-- 📈 **ARIMA Forecasting Models** — *link coming soon* 📊 Time-series prediction & applied math research.  
-- 📊 **Child Labour & Migration Analytics** — [Repo Link](https://github.com/nodonut6311/ChildLabour-Migration-Analytics) 📊 End-to-end pipeline for **data cleaning, integration, and socio-economic analysis** using Python.
-
----
 <!-- Connect -->
 ### 🌐 Connect With Me
 <p align="left">
