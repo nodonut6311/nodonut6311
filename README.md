@@ -1,31 +1,25 @@
-```zsh
-> nodonut6311
-```
-
 <table>
   <tr>
-    <td width="340" valign="top">
+    <td valign="top">
       <img src="https://raw.githubusercontent.com/nodonut6311/nodonut6311/main/this%20is%20me%20if%20u%20even%20care%20%3E_%3C.jpg" alt="this is me" width="320" />
     </td>
     <td valign="top">
 
-<pre>
-nodonut6311@github
--------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 968
-Stars: 14
+nodonut6311@github<br>
+-------------------------<br>
+OS: Arch Linux x86_64<br>
+Shell: zsh 5.8<br>
+Pronouns: He/Him<br>
+Location: Artesia, CA<br>
+Frameworks: React<br>
+Languages: JavaScript, TypeScript,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML, CSS<br>
+Learning: Node.js, Express, PostgreSQL,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Three.js, CPP<br>
+Hobbies: Gardening, Cooking, Gaming<br>
+Commits: 968<br>
+Stars: 14<br>
 Discord: RandomPotato#1377
-</pre>
 
     </td>
   </tr>
