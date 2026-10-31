@@ -1,7 +1,7 @@
 ```zsh
 > nodonut6311
 ```
-<img align="left" src="images/h7dae4o0uk461.jpg" alt="" width="320" />
+<img align="left" src="https://raw.githubusercontent.com/nodonut6311/nodonut6311/main/this%20is%20me%20if%20u%20even%20care%20%3E_%3C.jpg" alt="this is me" width="320" />
 ```csharp
 nodonut6311@github
 -------------------------
