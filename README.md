@@ -21,9 +21,13 @@ Commits: 968
 Stars: 14
 LinkedIn: 
 ```
-<a href="https://www.linkedin.com/in/rohan-amudhala-b70000325" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="20" />
-</a>
+<pre>
+rohan-amudhala@github
+-------------------------
+OS: macOS
+Languages: Java, Python, C, C++
+LinkedIn: <a href="https://www.linkedin.com/in/rohan-amudhala-b70000325">LinkedIn</a>
+</pre>
 
 
 <p align="left">
