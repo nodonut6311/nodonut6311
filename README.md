@@ -5,20 +5,26 @@
 <img align="left" src="https://github.com/nodonut6311/nodonut6311/blob/main/%20-3.jpg?raw=true" width="320" style="border-radius: 15px;" />
 
 ```text
-nodonut6311@github
+rohan-amudhala@github
 -------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 968
-Stars: 14
+Role: CS Undergraduate | Developer
+Interests: Data Science, Machine Learning,
+           Applied Research, Analytics
+Experience: Software Development,
+            Data Analysis & Visualization
+Projects: Data-driven Research,
+          Full-stack Applications,
+          Algorithmic Systems
+Languages: Python, Java, C, JavaScript
+Frameworks: React, Spring Boot
+Data Tools: R, Pandas, NumPy, SQL
+Currently Exploring: Machine Learning,
+                     Deep Learning, NLP
+Research: Statistical Modeling,
+          Time Series Forecasting,
+          Geospatial Analytics
+Goal: Building Intelligent, Data-driven
+      Solutions Through Research
 ```
 <pre>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,js,html,react,spring,mongodb,mysql,vscode,github" /></a>
