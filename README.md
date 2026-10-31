@@ -7,8 +7,6 @@
 ```text
 rohan-amudhala@github
 -------------------------
-rohan-amudhala@github
--------------------------
 role: cs undergrad | developer
 
 interests: data science, machine learning
