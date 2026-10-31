@@ -24,6 +24,8 @@ exploring: machine learning, deep learning, nlp
 currently: learning, building & experimenting
 ```
 <pre>
+tech stack 
+
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,js,html,react,spring,mongodb,mysql,vscode,github" /></a>
 </pre>
 <pre>
