@@ -19,8 +19,10 @@ Learning: Node.js, Express, PostgreSQL,
 Hobbies: Gardening, Cooking, Gaming
 Commits: 968
 Stars: 14
-LinkedIn: <a href="https://www.linkedin.com/in/rohan-amudhala-b70000325" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="20" /></a>
 ```
+
+LinkedIn: <a href="https://www.linkedin.com/in/rohan-amudhala-b70000325" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="20" /></a>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,c,js,html,react,spring,mongodb,mysql,vscode,github" />
