@@ -1,8 +1,11 @@
 ```zsh
 > nodonut6311
 ```
----
-
+<img align="left" src="images/h7dae4o0uk461.jpg" alt="" width="320" />
+```csharp
+nodonut6311@github
+-------------------------
+```
 <!-- About Me -->
 ### 🙋‍♂️ About Me     
 - 🔭 Co-authoring a **geospatial analysis paper** with the *Indian Institute of Tropical Meteorology, Pune*, using MODIS datasets to study soil moisture and vegetation dynamics.  
