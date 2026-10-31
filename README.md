@@ -2,7 +2,7 @@
 > nodonut6311
 ```
 
-<img align="left" src="https://github.com/nodonut6311/nodonut6311/blob/main/%20-3.jpg?raw=true" width="320" />
+<img align="left" src="https://github.com/nodonut6311/nodonut6311/blob/main/%20-3.jpg?raw=true" width="320" style="border-radius: 15px;" />
 
 ```text
 nodonut6311@github
