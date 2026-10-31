@@ -27,8 +27,8 @@ ping me!
 <a href="https://www.linkedin.com/in/rohan-amudhala-b70000325" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  <a href="mailto:rohanamudhala@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </pre>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,js,html,react,spring,mongodb,mysql,vscode,github" />
-  </a>
-</p>
+<pre>
+tech stack
+-------------------------
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,js,html,react,spring,mongodb,mysql,vscode,github" /></a>
+</pre>
