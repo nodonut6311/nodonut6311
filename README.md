@@ -15,7 +15,7 @@ nodonut6311@github
 
 ---
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,java,c,js,mysql,mongodb,spring,vscode" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,java,c,js,mysql,mongodb,spring,vscode,r,github,html" /> </a> </p>
 
 ### 🛠️ Tools & Technologies I Use
 <p align="left">
