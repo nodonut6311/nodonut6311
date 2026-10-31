@@ -11,13 +11,13 @@ role: cs undergrad | developer
 
 interests: data science, machine learning
 
-experience: data analysis, research, development
+experience: data analysis, research, dev
 
 projects: data-driven applications & research
 
-languages: python, java, c, javascript
+frameworks: spring boot, react
 
-tools: r, sql, pandas, numpy
+workspace: google colab, jupyter notebook
 
 exploring: machine learning, deep learning, nlp
 
